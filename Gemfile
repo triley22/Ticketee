@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 
 group :test do 
 	gem 'capybara', '~> 2.11'
+  gem 'factory_girl_rails', '~> 4.5'
 end
 
 group :development, :test do
